@@ -1,0 +1,39 @@
+.title{
+    color: purple;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+
+#Date{
+    font-size: 40px;
+    color: red;
+    border: 1px solid black;
+    padding: 10px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.container1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+.container2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.container3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+.outside{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
